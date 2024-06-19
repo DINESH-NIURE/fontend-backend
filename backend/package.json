@@ -1,0 +1,23 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/DiNESHNIURE07/fontend-backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DiNESHNIURE07/fontend-backend/issues"
+  },
+  "homepage": "https://github.com/DiNESHNIURE07/fontend-backend#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
